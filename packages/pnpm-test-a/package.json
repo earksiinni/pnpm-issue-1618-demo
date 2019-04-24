@@ -1,0 +1,11 @@
+{
+  "name": "@pnpm-test/a",
+  "version": "0.0.1",
+  "description": "Sub-package a",
+  "author": "Ersin Akinci <me@ersinakinci.com>",
+  "license": "MIT",
+  "private": true,
+  "peerDependencies": {
+    "@pnpm-test/b": "^0.0.1"
+  }
+}

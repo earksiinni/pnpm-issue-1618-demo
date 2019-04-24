@@ -1,0 +1,8 @@
+{
+  "name": "@pnpm-test/root",
+  "version": "0.0.1",
+  "description": "The root package",
+  "author": "Ersin Akinci <me@ersinakinci.com>",
+  "license": "MIT",
+  "private": true
+}

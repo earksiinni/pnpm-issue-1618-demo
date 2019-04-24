@@ -1,0 +1,8 @@
+{
+  "name": "@pnpm-test/b",
+  "version": "0.0.1",
+  "description": "Sub-package b",
+  "author": "Ersin Akinci <me@ersinakinci.com>",
+  "license": "MIT",
+  "private": true
+}
